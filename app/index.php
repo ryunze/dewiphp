@@ -1,1 +1,1 @@
-<?php echo "Dewiphp v1";
+<?php echo "Dewiphp v1.0";
